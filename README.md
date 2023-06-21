@@ -1,6 +1,7 @@
 # Order Notification Project
 
 The Order Notification project is a serverless application that enables the processing and notification of order information using AWS services. It utilizes Amazon SQS, Amazon SNS, AWS Lambda, DynamoDB, and API Gateway to facilitate seamless communication, processing, storage, and retrieval of order details.
+![Architecture Overview](arch.png)
 
 ## Project Overview
 
